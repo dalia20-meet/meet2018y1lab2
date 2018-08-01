@@ -1,0 +1,4 @@
+language="hello world"
+translation="ciao mondo"
+print=(" the translation of hello wolrd " + language + "is" + translation)
+
